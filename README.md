@@ -1,7 +1,7 @@
 ####README PLEASE
 
 Tutorial untuk belajar tentang WWW. Repositori (semacam tempat untuk menyimpan _source code_) ini khusus saya buat untuk Tutu, Fanny, Riri, dan teman-teman yang lain.
-Sya sudah buat wiki sebagai refrensi singkat tentang WWW, HTML dan CSS. Wikinya bisa kalian buka dengan mengklik ikon buku disidebar sebelah kanan.
+Sya sudah buat [wiki](https://github.com/eufat/tutor-www/wiki/WWW) sebagai refrensi singkat tentang WWW, HTML dan CSS. Wikinya bisa kalian buka dengan mengklik ikon buku disidebar sebelah kanan.
 Semoga tutorial ini berguna buat kalian dan juga sya.
 
 Best regards.
